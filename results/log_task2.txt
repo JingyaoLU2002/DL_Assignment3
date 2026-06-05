@@ -1,0 +1,835 @@
+1. DEPTH      = 2, WEIGHT_DECAY = 0.1, 
+Epoch 001/100 | train 2.1058 | val 2.0525 | test 2.0439
+Epoch 002/100 | train 2.0238 | val 2.0032 | test 2.0036
+Epoch 003/100 | train 2.0011 | val 1.9851 | test 1.9903
+Epoch 004/100 | train 1.9389 | val 1.9229 | test 1.9173
+Epoch 005/100 | train 1.8900 | val 1.8998 | test 1.8649
+Epoch 006/100 | train 1.8532 | val 1.8799 | test 1.8515
+Epoch 007/100 | train 1.8094 | val 1.8653 | test 1.8099
+Epoch 008/100 | train 1.7700 | val 1.8115 | test 1.7699
+Epoch 009/100 | train 1.7483 | val 1.7926 | test 1.7554
+Epoch 010/100 | train 1.7271 | val 1.7882 | test 1.7518
+Epoch 011/100 | train 1.6877 | val 1.7828 | test 1.7346
+Epoch 012/100 | train 1.6768 | val 1.7864 | test 1.7366
+Epoch 013/100 | train 1.6408 | val 1.7445 | test 1.7017
+Epoch 014/100 | train 1.6255 | val 1.7083 | test 1.6509
+Epoch 015/100 | train 1.6044 | val 1.6822 | test 1.7025
+Epoch 016/100 | train 1.5945 | val 1.6684 | test 1.6808
+Epoch 017/100 | train 1.5585 | val 1.6876 | test 1.6494
+Epoch 018/100 | train 1.5523 | val 1.6269 | test 1.6879
+Epoch 019/100 | train 1.5165 | val 1.6310 | test 1.6461
+Epoch 020/100 | train 1.5149 | val 1.6054 | test 1.6244
+Epoch 021/100 | train 1.5127 | val 1.6119 | test 1.6046
+Epoch 022/100 | train 1.4601 | val 1.5741 | test 1.6056
+Epoch 023/100 | train 1.4716 | val 1.6110 | test 1.6007
+Epoch 024/100 | train 1.4620 | val 1.5496 | test 1.5743
+Epoch 025/100 | train 1.4219 | val 1.6280 | test 1.6514
+Epoch 026/100 | train 1.4539 | val 1.5646 | test 1.5936
+Epoch 027/100 | train 1.4151 | val 1.5938 | test 1.5744
+Epoch 028/100 | train 1.4014 | val 1.5476 | test 1.5665
+Epoch 029/100 | train 1.3894 | val 1.5320 | test 1.5859
+Epoch 030/100 | train 1.3560 | val 1.5785 | test 1.5923
+Epoch 031/100 | train 1.3787 | val 1.5380 | test 1.5705
+Epoch 032/100 | train 1.3394 | val 1.5647 | test 1.5802
+Epoch 033/100 | train 1.3356 | val 1.5363 | test 1.5420
+Epoch 034/100 | train 1.3301 | val 1.5223 | test 1.5286
+Epoch 035/100 | train 1.3144 | val 1.5054 | test 1.4970
+Epoch 036/100 | train 1.2946 | val 1.5544 | test 1.5516
+Epoch 037/100 | train 1.3106 | val 1.5421 | test 1.5570
+Epoch 038/100 | train 1.2912 | val 1.5551 | test 1.5882
+Epoch 039/100 | train 1.2948 | val 1.4874 | test 1.5331
+Epoch 040/100 | train 1.2757 | val 1.5009 | test 1.5077
+Epoch 041/100 | train 1.2549 | val 1.5234 | test 1.5433
+Epoch 042/100 | train 1.2392 | val 1.5386 | test 1.5390
+Epoch 043/100 | train 1.2519 | val 1.4838 | test 1.5194
+Epoch 044/100 | train 1.2314 | val 1.5113 | test 1.5099
+Epoch 045/100 | train 1.2174 | val 1.5614 | test 1.5550
+Epoch 046/100 | train 1.2289 | val 1.5200 | test 1.5323
+Epoch 047/100 | train 1.2016 | val 1.4919 | test 1.5015
+Epoch 048/100 | train 1.2074 | val 1.5363 | test 1.4931
+Epoch 049/100 | train 1.1992 | val 1.5179 | test 1.4916
+Epoch 050/100 | train 1.1928 | val 1.5154 | test 1.5246
+Epoch 051/100 | train 1.1798 | val 1.5007 | test 1.4912
+Epoch 052/100 | train 1.1635 | val 1.4937 | test 1.5103
+Epoch 053/100 | train 1.1365 | val 1.5325 | test 1.5292
+Epoch 054/100 | train 1.1607 | val 1.5199 | test 1.4978
+Epoch 055/100 | train 1.1443 | val 1.5370 | test 1.5310
+Epoch 056/100 | train 1.1441 | val 1.5191 | test 1.5195
+Epoch 057/100 | train 1.1334 | val 1.5063 | test 1.5321
+Epoch 058/100 | train 1.1131 | val 1.4962 | test 1.5100
+Epoch 059/100 | train 1.1063 | val 1.4840 | test 1.4920
+Epoch 060/100 | train 1.1169 | val 1.5469 | test 1.5600
+Epoch 061/100 | train 1.1035 | val 1.4895 | test 1.4833
+Epoch 062/100 | train 1.0902 | val 1.5039 | test 1.4882
+Epoch 063/100 | train 1.1028 | val 1.5001 | test 1.5179
+Epoch 064/100 | train 1.0972 | val 1.5089 | test 1.5254
+Epoch 065/100 | train 1.0646 | val 1.5162 | test 1.5167
+Epoch 066/100 | train 1.0708 | val 1.5362 | test 1.5205
+Epoch 067/100 | train 1.0735 | val 1.5394 | test 1.5227
+Epoch 068/100 | train 1.0693 | val 1.5038 | test 1.5079
+Epoch 069/100 | train 1.0681 | val 1.5109 | test 1.5170
+Epoch 070/100 | train 1.0661 | val 1.5524 | test 1.5535
+Epoch 071/100 | train 1.0490 | val 1.5155 | test 1.5224
+Epoch 072/100 | train 1.0403 | val 1.5177 | test 1.5127
+Epoch 073/100 | train 1.0413 | val 1.5255 | test 1.5242
+Epoch 074/100 | train 1.0368 | val 1.5417 | test 1.5363
+Epoch 075/100 | train 1.0142 | val 1.5201 | test 1.5282
+Epoch 076/100 | train 1.0316 | val 1.5175 | test 1.5193
+Epoch 077/100 | train 1.0201 | val 1.5321 | test 1.5456
+Epoch 078/100 | train 1.0227 | val 1.5171 | test 1.5202
+Epoch 079/100 | train 1.0032 | val 1.5303 | test 1.5171
+Epoch 080/100 | train 0.9984 | val 1.5259 | test 1.5430
+Epoch 081/100 | train 1.0105 | val 1.5527 | test 1.5389
+Epoch 082/100 | train 0.9959 | val 1.5391 | test 1.5379
+Epoch 083/100 | train 0.9852 | val 1.5526 | test 1.5485
+Epoch 084/100 | train 0.9959 | val 1.5379 | test 1.5273
+Epoch 085/100 | train 0.9900 | val 1.5321 | test 1.5296
+Epoch 086/100 | train 0.9989 | val 1.5371 | test 1.5356
+Epoch 087/100 | train 0.9971 | val 1.5324 | test 1.5281
+Epoch 088/100 | train 0.9681 | val 1.5277 | test 1.5329
+Epoch 089/100 | train 0.9742 | val 1.5296 | test 1.5377
+Epoch 090/100 | train 0.9961 | val 1.5413 | test 1.5442
+Epoch 091/100 | train 0.9827 | val 1.5367 | test 1.5435
+Epoch 092/100 | train 0.9796 | val 1.5372 | test 1.5351
+Epoch 093/100 | train 0.9739 | val 1.5351 | test 1.5304
+Epoch 094/100 | train 0.9692 | val 1.5348 | test 1.5305
+Epoch 095/100 | train 0.9624 | val 1.5340 | test 1.5351
+Epoch 096/100 | train 0.9688 | val 1.5343 | test 1.5355
+Epoch 097/100 | train 0.9699 | val 1.5339 | test 1.5321
+Epoch 098/100 | train 0.9882 | val 1.5363 | test 1.5360
+Epoch 099/100 | train 0.9783 | val 1.5355 | test 1.5349
+Epoch 100/100 | train 0.9816 | val 1.5348 | test 1.5344
+
+
+2. DEPTH      = 2, WEIGHT_DECAY = 0.15, 
+Epoch 001/100 | train 2.0924 | val 2.0474 | test 2.0315
+Epoch 002/100 | train 2.0381 | val 1.9968 | test 1.9964
+Epoch 003/100 | train 1.9836 | val 1.9406 | test 1.9100
+Epoch 004/100 | train 1.9180 | val 1.8965 | test 1.8577
+Epoch 005/100 | train 1.8642 | val 1.8634 | test 1.8294
+Epoch 006/100 | train 1.8497 | val 1.8574 | test 1.8237
+Epoch 007/100 | train 1.8058 | val 1.8374 | test 1.7973
+Epoch 008/100 | train 1.7899 | val 1.7956 | test 1.7764
+Epoch 009/100 | train 1.7632 | val 1.8156 | test 1.7846
+Epoch 010/100 | train 1.7434 | val 1.7768 | test 1.7614
+Epoch 011/100 | train 1.7159 | val 1.8282 | test 1.7810
+Epoch 012/100 | train 1.6906 | val 1.7723 | test 1.7631
+Epoch 013/100 | train 1.6661 | val 1.7132 | test 1.7312
+Epoch 014/100 | train 1.6561 | val 1.7430 | test 1.7667
+Epoch 015/100 | train 1.6329 | val 1.7097 | test 1.7273
+Epoch 016/100 | train 1.6422 | val 1.7466 | test 1.7476
+Epoch 017/100 | train 1.6102 | val 1.7095 | test 1.7141
+Epoch 018/100 | train 1.5799 | val 1.7506 | test 1.7281
+Epoch 019/100 | train 1.5704 | val 1.6710 | test 1.6588
+Epoch 020/100 | train 1.5499 | val 1.6666 | test 1.7039
+Epoch 021/100 | train 1.5314 | val 1.6757 | test 1.6829
+Epoch 022/100 | train 1.5086 | val 1.6476 | test 1.6784
+Epoch 023/100 | train 1.4966 | val 1.6605 | test 1.6740
+Epoch 024/100 | train 1.4678 | val 1.6294 | test 1.6592
+Epoch 025/100 | train 1.4751 | val 1.6176 | test 1.6518
+Epoch 026/100 | train 1.4893 | val 1.6375 | test 1.6496
+Epoch 027/100 | train 1.4411 | val 1.7125 | test 1.7099
+Epoch 028/100 | train 1.4329 | val 1.6014 | test 1.6402
+Epoch 029/100 | train 1.4052 | val 1.5780 | test 1.6063
+Epoch 030/100 | train 1.3960 | val 1.6043 | test 1.6231
+Epoch 031/100 | train 1.3722 | val 1.5790 | test 1.6145
+Epoch 032/100 | train 1.3661 | val 1.5761 | test 1.5875
+Epoch 033/100 | train 1.3722 | val 1.5877 | test 1.6155
+Epoch 034/100 | train 1.3512 | val 1.5830 | test 1.6476
+Epoch 035/100 | train 1.3422 | val 1.5720 | test 1.6146
+Epoch 036/100 | train 1.3397 | val 1.5767 | test 1.6034
+Epoch 037/100 | train 1.3211 | val 1.5533 | test 1.5942
+Epoch 038/100 | train 1.3053 | val 1.5642 | test 1.6382
+Epoch 039/100 | train 1.2869 | val 1.5613 | test 1.6142
+Epoch 040/100 | train 1.3002 | val 1.5387 | test 1.6119
+Epoch 041/100 | train 1.2862 | val 1.5392 | test 1.6124
+Epoch 042/100 | train 1.2905 | val 1.5779 | test 1.6208
+Epoch 043/100 | train 1.2810 | val 1.5533 | test 1.6146
+Epoch 044/100 | train 1.2776 | val 1.5604 | test 1.6313
+Epoch 045/100 | train 1.2682 | val 1.6161 | test 1.6574
+Epoch 046/100 | train 1.2425 | val 1.5238 | test 1.5906
+Epoch 047/100 | train 1.2222 | val 1.5793 | test 1.6493
+Epoch 048/100 | train 1.2575 | val 1.5245 | test 1.6089
+Epoch 049/100 | train 1.2270 | val 1.5261 | test 1.6087
+Epoch 050/100 | train 1.2196 | val 1.5475 | test 1.6234
+Epoch 051/100 | train 1.2101 | val 1.5560 | test 1.6498
+Epoch 052/100 | train 1.2038 | val 1.5299 | test 1.6358
+Epoch 053/100 | train 1.2169 | val 1.5100 | test 1.6486
+Epoch 054/100 | train 1.1936 | val 1.5360 | test 1.6468
+Epoch 055/100 | train 1.1904 | val 1.5124 | test 1.6281
+Epoch 056/100 | train 1.1667 | val 1.5141 | test 1.6160
+Epoch 057/100 | train 1.1829 | val 1.5205 | test 1.6433
+Epoch 058/100 | train 1.1665 | val 1.5327 | test 1.6438
+Epoch 059/100 | train 1.1449 | val 1.5337 | test 1.6574
+Epoch 060/100 | train 1.1476 | val 1.5193 | test 1.6530
+Epoch 061/100 | train 1.1511 | val 1.5353 | test 1.6476
+Epoch 062/100 | train 1.1306 | val 1.5369 | test 1.6781
+Epoch 063/100 | train 1.1471 | val 1.5201 | test 1.6701
+Epoch 064/100 | train 1.1324 | val 1.5263 | test 1.6532
+Epoch 065/100 | train 1.1210 | val 1.5117 | test 1.6512
+Epoch 066/100 | train 1.1112 | val 1.5231 | test 1.6686
+Epoch 067/100 | train 1.1240 | val 1.5244 | test 1.6563
+Epoch 068/100 | train 1.1070 | val 1.5312 | test 1.6735
+Epoch 069/100 | train 1.0945 | val 1.5318 | test 1.6655
+Epoch 070/100 | train 1.1015 | val 1.5031 | test 1.6379
+Epoch 071/100 | train 1.0871 | val 1.5109 | test 1.6592
+Epoch 072/100 | train 1.0798 | val 1.5140 | test 1.6690
+Epoch 073/100 | train 1.0730 | val 1.5214 | test 1.6661
+Epoch 074/100 | train 1.0902 | val 1.5300 | test 1.6885
+Epoch 075/100 | train 1.0831 | val 1.5190 | test 1.6822
+Epoch 076/100 | train 1.0664 | val 1.5191 | test 1.6544
+Epoch 077/100 | train 1.0723 | val 1.5337 | test 1.6672
+Epoch 078/100 | train 1.0633 | val 1.5167 | test 1.6708
+Epoch 079/100 | train 1.0550 | val 1.5233 | test 1.6588
+Epoch 080/100 | train 1.0431 | val 1.5120 | test 1.6606
+Epoch 081/100 | train 1.0397 | val 1.5199 | test 1.6702
+Epoch 082/100 | train 1.0584 | val 1.5208 | test 1.6698
+Epoch 083/100 | train 1.0484 | val 1.5211 | test 1.6608
+Epoch 084/100 | train 1.0356 | val 1.5233 | test 1.6660
+Epoch 085/100 | train 1.0326 | val 1.5266 | test 1.6746
+Epoch 086/100 | train 1.0256 | val 1.5218 | test 1.6706
+Epoch 087/100 | train 1.0415 | val 1.5278 | test 1.6793
+Epoch 088/100 | train 1.0297 | val 1.5168 | test 1.6744
+Epoch 089/100 | train 1.0271 | val 1.5249 | test 1.6774
+Epoch 090/100 | train 1.0193 | val 1.5183 | test 1.6790
+Epoch 091/100 | train 1.0417 | val 1.5174 | test 1.6729
+Epoch 092/100 | train 1.0304 | val 1.5173 | test 1.6731
+Epoch 093/100 | train 1.0139 | val 1.5195 | test 1.6743
+Epoch 094/100 | train 1.0320 | val 1.5181 | test 1.6699
+Epoch 095/100 | train 1.0266 | val 1.5167 | test 1.6712
+Epoch 096/100 | train 1.0224 | val 1.5186 | test 1.6758
+Epoch 097/100 | train 1.0203 | val 1.5186 | test 1.6732
+Epoch 098/100 | train 1.0210 | val 1.5176 | test 1.6742
+Epoch 099/100 | train 1.0166 | val 1.5181 | test 1.6739
+Epoch 100/100 | train 1.0122 | val 1.5190 | test 1.6744
+
+NOISY  | precision 0.3956 | recall 0.4083
+CLEAN  | precision 0.3956 | recall 0.4083
+Baseline (>=0.3 on noisy): PASS
+Figure saved to: results/per_class_metrics.png
+
+
+
+3. DEPTH      = 2, WEIGHT_DECAY = 0.1, DROPOUT_LINEAR2 = 0.3, DROPOUT_ATTENTION = 0.3
+Epoch 001/100 | train 2.0988 | val 2.0551 | test 2.0492
+Epoch 002/100 | train 2.0485 | val 2.0116 | test 2.0000
+Epoch 003/100 | train 2.0067 | val 1.9570 | test 1.9597
+Epoch 004/100 | train 1.9406 | val 1.9201 | test 1.8868
+Epoch 005/100 | train 1.8632 | val 1.9087 | test 1.8352
+Epoch 006/100 | train 1.8487 | val 1.8745 | test 1.8240
+Epoch 007/100 | train 1.8046 | val 1.8256 | test 1.8036
+Epoch 008/100 | train 1.7677 | val 1.8420 | test 1.7757
+Epoch 009/100 | train 1.7338 | val 1.7856 | test 1.7670
+Epoch 010/100 | train 1.7218 | val 1.8201 | test 1.7722
+Epoch 011/100 | train 1.6771 | val 1.7644 | test 1.7457
+Epoch 012/100 | train 1.6567 | val 1.7030 | test 1.7189
+Epoch 013/100 | train 1.6406 | val 1.7153 | test 1.7123
+Epoch 014/100 | train 1.6040 | val 1.7163 | test 1.7118
+Epoch 015/100 | train 1.5727 | val 1.7058 | test 1.6551
+Epoch 016/100 | train 1.5562 | val 1.7276 | test 1.7217
+Epoch 017/100 | train 1.5561 | val 1.6824 | test 1.6663
+Epoch 018/100 | train 1.5349 | val 1.6792 | test 1.6630
+Epoch 019/100 | train 1.5035 | val 1.6415 | test 1.6376
+Epoch 020/100 | train 1.4899 | val 1.6930 | test 1.6606
+Epoch 021/100 | train 1.4657 | val 1.6225 | test 1.6195
+Epoch 022/100 | train 1.4474 | val 1.6601 | test 1.6137
+Epoch 023/100 | train 1.4385 | val 1.6604 | test 1.6006
+Epoch 024/100 | train 1.4338 | val 1.6252 | test 1.5860
+Epoch 025/100 | train 1.3899 | val 1.6187 | test 1.5944
+Epoch 026/100 | train 1.4023 | val 1.6356 | test 1.6198
+Epoch 027/100 | train 1.3871 | val 1.6207 | test 1.5642
+Epoch 028/100 | train 1.3887 | val 1.6193 | test 1.5609
+Epoch 029/100 | train 1.3882 | val 1.6093 | test 1.6112
+Epoch 030/100 | train 1.3701 | val 1.6448 | test 1.6607
+Epoch 031/100 | train 1.3947 | val 1.6049 | test 1.6194
+Epoch 032/100 | train 1.3525 | val 1.6300 | test 1.5463
+Epoch 033/100 | train 1.3337 | val 1.6063 | test 1.5540
+Epoch 034/100 | train 1.3502 | val 1.6149 | test 1.5743
+Epoch 035/100 | train 1.3184 | val 1.5655 | test 1.6101
+Epoch 036/100 | train 1.3079 | val 1.6346 | test 1.5499
+Epoch 037/100 | train 1.3080 | val 1.5650 | test 1.5639
+Epoch 038/100 | train 1.2851 | val 1.5688 | test 1.5213
+Epoch 039/100 | train 1.2880 | val 1.5913 | test 1.5474
+Epoch 040/100 | train 1.2693 | val 1.5735 | test 1.5135
+Epoch 041/100 | train 1.2600 | val 1.5708 | test 1.5505
+Epoch 042/100 | train 1.2727 | val 1.5499 | test 1.5365
+Epoch 043/100 | train 1.2475 | val 1.5283 | test 1.5226
+Epoch 044/100 | train 1.2587 | val 1.5555 | test 1.5149
+Epoch 045/100 | train 1.2369 | val 1.5298 | test 1.5419
+Epoch 046/100 | train 1.2366 | val 1.5578 | test 1.5487
+Epoch 047/100 | train 1.2361 | val 1.5507 | test 1.5357
+Epoch 048/100 | train 1.2031 | val 1.5515 | test 1.5354
+Epoch 049/100 | train 1.2079 | val 1.5707 | test 1.5312
+Epoch 050/100 | train 1.2162 | val 1.5685 | test 1.5265
+Epoch 051/100 | train 1.1918 | val 1.5495 | test 1.5460
+Epoch 052/100 | train 1.1857 | val 1.5431 | test 1.5072
+Epoch 053/100 | train 1.2011 | val 1.5384 | test 1.5229
+Epoch 054/100 | train 1.1935 | val 1.5394 | test 1.5342
+Epoch 055/100 | train 1.1839 | val 1.5218 | test 1.5642
+Epoch 056/100 | train 1.1744 | val 1.5283 | test 1.4823         <---
+Epoch 057/100 | train 1.1636 | val 1.5248 | test 1.5186
+Epoch 058/100 | train 1.1630 | val 1.5618 | test 1.5169
+Epoch 059/100 | train 1.1643 | val 1.5323 | test 1.5158
+Epoch 060/100 | train 1.1498 | val 1.5349 | test 1.5185
+Epoch 061/100 | train 1.1506 | val 1.5318 | test 1.5412
+Epoch 062/100 | train 1.1472 | val 1.5314 | test 1.5149
+Epoch 063/100 | train 1.1428 | val 1.5449 | test 1.5028
+Epoch 064/100 | train 1.1277 | val 1.5467 | test 1.5567
+Epoch 065/100 | train 1.1449 | val 1.5353 | test 1.5037
+Epoch 066/100 | train 1.1124 | val 1.5541 | test 1.5264
+Epoch 067/100 | train 1.1103 | val 1.5314 | test 1.4953
+Epoch 068/100 | train 1.1049 | val 1.5447 | test 1.5316
+Epoch 069/100 | train 1.0890 | val 1.5246 | test 1.5002
+Epoch 070/100 | train 1.0942 | val 1.5369 | test 1.5041
+Epoch 071/100 | train 1.0970 | val 1.5355 | test 1.4976
+Epoch 072/100 | train 1.0838 | val 1.5431 | test 1.5258
+Epoch 073/100 | train 1.0898 | val 1.5174 | test 1.4987
+Epoch 074/100 | train 1.0853 | val 1.5201 | test 1.5010
+Epoch 075/100 | train 1.0803 | val 1.5376 | test 1.5163
+Epoch 076/100 | train 1.0799 | val 1.5179 | test 1.5080
+Epoch 077/100 | train 1.0738 | val 1.5452 | test 1.5454
+Epoch 078/100 | train 1.0692 | val 1.5473 | test 1.5110
+Epoch 079/100 | train 1.0529 | val 1.5351 | test 1.4968
+Epoch 080/100 | train 1.0568 | val 1.5163 | test 1.5105
+Epoch 081/100 | train 1.0587 | val 1.5307 | test 1.5173
+Epoch 082/100 | train 1.0540 | val 1.5142 | test 1.5001
+Epoch 083/100 | train 1.0549 | val 1.5173 | test 1.5133
+Epoch 084/100 | train 1.0507 | val 1.5246 | test 1.5108
+Epoch 085/100 | train 1.0573 | val 1.5214 | test 1.5035
+Epoch 086/100 | train 1.0367 | val 1.5227 | test 1.5115
+Epoch 087/100 | train 1.0366 | val 1.5204 | test 1.5072
+Epoch 088/100 | train 1.0444 | val 1.5231 | test 1.5085
+Epoch 089/100 | train 1.0303 | val 1.5187 | test 1.5137
+Epoch 090/100 | train 1.0391 | val 1.5159 | test 1.5062
+Epoch 091/100 | train 1.0363 | val 1.5232 | test 1.5156
+Epoch 092/100 | train 1.0294 | val 1.5234 | test 1.5098
+Epoch 093/100 | train 1.0390 | val 1.5219 | test 1.5106
+Epoch 094/100 | train 1.0454 | val 1.5218 | test 1.5107
+Epoch 095/100 | train 1.0214 | val 1.5257 | test 1.5151
+Epoch 096/100 | train 1.0409 | val 1.5249 | test 1.5113
+Epoch 097/100 | train 1.0458 | val 1.5231 | test 1.5133
+Epoch 098/100 | train 1.0298 | val 1.5226 | test 1.5131
+Epoch 099/100 | train 1.0400 | val 1.5228 | test 1.5117
+Epoch 100/100 | train 1.0382 | val 1.5231 | test 1.5111
+
+NOISY  | precision 0.4605 | recall 0.4583
+CLEAN  | precision 0.4605 | recall 0.4583
+Baseline (>=0.3 on noisy): PASS
+Figure saved to: results/per_class_metrics.png
+
+4. DEPTH = 2, WEIGHT_DECAY = 0.3, DROPOUT_LINEAR2 = 0.2, DROPOUT_ATTENTION = 0.2
+Epoch 001/100 | train 2.1010 | val 2.0550 | test 2.0557
+Epoch 002/100 | train 2.0388 | val 2.0226 | test 2.0149
+Epoch 003/100 | train 1.9808 | val 1.9745 | test 1.9559
+Epoch 004/100 | train 1.9504 | val 1.9159 | test 1.8763
+Epoch 005/100 | train 1.8799 | val 1.8847 | test 1.8461
+Epoch 006/100 | train 1.8548 | val 1.8675 | test 1.8060
+Epoch 007/100 | train 1.8053 | val 1.8219 | test 1.8075
+Epoch 008/100 | train 1.7704 | val 1.8476 | test 1.8317
+Epoch 009/100 | train 1.7422 | val 1.7783 | test 1.7634
+Epoch 010/100 | train 1.7299 | val 1.7351 | test 1.7573
+Epoch 011/100 | train 1.7028 | val 1.7212 | test 1.7400
+Epoch 012/100 | train 1.6752 | val 1.7453 | test 1.7310
+Epoch 013/100 | train 1.6414 | val 1.7144 | test 1.7082
+Epoch 014/100 | train 1.6259 | val 1.7253 | test 1.6906
+Epoch 015/100 | train 1.5986 | val 1.7295 | test 1.7121
+Epoch 016/100 | train 1.5870 | val 1.6778 | test 1.6787
+Epoch 017/100 | train 1.5840 | val 1.7378 | test 1.7149
+Epoch 018/100 | train 1.5723 | val 1.6659 | test 1.6681
+Epoch 019/100 | train 1.5261 | val 1.6745 | test 1.6399
+Epoch 020/100 | train 1.5114 | val 1.6710 | test 1.6538
+Epoch 021/100 | train 1.4952 | val 1.6549 | test 1.6510
+Epoch 022/100 | train 1.4831 | val 1.6345 | test 1.6435
+Epoch 023/100 | train 1.4763 | val 1.6195 | test 1.6549
+Epoch 024/100 | train 1.4530 | val 1.5970 | test 1.5997
+Epoch 025/100 | train 1.4417 | val 1.5755 | test 1.5792
+Epoch 026/100 | train 1.4330 | val 1.6814 | test 1.6432
+Epoch 027/100 | train 1.4383 | val 1.5838 | test 1.6185
+Epoch 028/100 | train 1.3954 | val 1.6295 | test 1.6680
+Epoch 029/100 | train 1.4113 | val 1.5566 | test 1.6083
+Epoch 030/100 | train 1.4022 | val 1.5719 | test 1.5751
+Epoch 031/100 | train 1.3555 | val 1.5802 | test 1.5965
+Epoch 032/100 | train 1.3758 | val 1.5955 | test 1.5907
+Epoch 033/100 | train 1.3707 | val 1.5990 | test 1.6103
+Epoch 034/100 | train 1.3470 | val 1.5916 | test 1.5666
+Epoch 035/100 | train 1.3581 | val 1.5437 | test 1.5974
+Epoch 036/100 | train 1.3291 | val 1.5396 | test 1.5706
+Epoch 037/100 | train 1.3122 | val 1.5436 | test 1.5633
+Epoch 038/100 | train 1.3044 | val 1.5749 | test 1.5812
+Epoch 039/100 | train 1.2918 | val 1.5352 | test 1.5916
+Epoch 040/100 | train 1.3081 | val 1.5254 | test 1.5921
+Epoch 041/100 | train 1.2841 | val 1.4902 | test 1.5769
+Epoch 042/100 | train 1.2679 | val 1.5126 | test 1.6196
+Epoch 043/100 | train 1.2862 | val 1.5117 | test 1.6029
+Epoch 044/100 | train 1.2860 | val 1.5368 | test 1.5669
+Epoch 045/100 | train 1.2627 | val 1.5327 | test 1.5760
+Epoch 046/100 | train 1.2617 | val 1.5206 | test 1.5694
+Epoch 047/100 | train 1.2544 | val 1.5071 | test 1.5693
+Epoch 048/100 | train 1.2317 | val 1.5131 | test 1.6439
+Epoch 049/100 | train 1.2336 | val 1.5459 | test 1.5997
+Epoch 050/100 | train 1.2529 | val 1.5906 | test 1.5926
+Epoch 051/100 | train 1.2333 | val 1.5156 | test 1.5687
+Epoch 052/100 | train 1.2056 | val 1.5188 | test 1.5952
+Epoch 053/100 | train 1.2294 | val 1.5133 | test 1.5688
+Epoch 054/100 | train 1.2114 | val 1.5191 | test 1.5919
+Epoch 055/100 | train 1.1973 | val 1.5964 | test 1.6062
+Epoch 056/100 | train 1.1948 | val 1.4816 | test 1.5627
+Epoch 057/100 | train 1.1897 | val 1.4909 | test 1.5960
+Epoch 058/100 | train 1.1924 | val 1.5030 | test 1.5927
+Epoch 059/100 | train 1.1881 | val 1.4977 | test 1.5830
+Epoch 060/100 | train 1.1580 | val 1.5034 | test 1.5835
+Epoch 061/100 | train 1.1742 | val 1.4636 | test 1.6052
+Epoch 062/100 | train 1.1656 | val 1.5001 | test 1.5853
+Epoch 063/100 | train 1.1547 | val 1.5015 | test 1.5675
+Epoch 064/100 | train 1.1709 | val 1.4905 | test 1.5577
+Epoch 065/100 | train 1.1557 | val 1.5106 | test 1.6087
+Epoch 066/100 | train 1.1529 | val 1.4863 | test 1.5757
+Epoch 067/100 | train 1.1442 | val 1.4797 | test 1.6000
+Epoch 068/100 | train 1.1300 | val 1.4875 | test 1.5678
+Epoch 069/100 | train 1.1348 | val 1.4666 | test 1.5571
+Epoch 070/100 | train 1.1197 | val 1.5099 | test 1.5975
+Epoch 071/100 | train 1.1260 | val 1.4793 | test 1.5667
+Epoch 072/100 | train 1.1319 | val 1.4904 | test 1.5550         <--
+Epoch 073/100 | train 1.1155 | val 1.4654 | test 1.5852
+Epoch 074/100 | train 1.0978 | val 1.4877 | test 1.5989
+Epoch 075/100 | train 1.0922 | val 1.5182 | test 1.5691
+Epoch 076/100 | train 1.0869 | val 1.4858 | test 1.5768
+Epoch 077/100 | train 1.1017 | val 1.4707 | test 1.5828
+Epoch 078/100 | train 1.0850 | val 1.4704 | test 1.5763
+Epoch 079/100 | train 1.0764 | val 1.4576 | test 1.5870
+Epoch 080/100 | train 1.0964 | val 1.4606 | test 1.5700
+Epoch 081/100 | train 1.0819 | val 1.4792 | test 1.5719
+Epoch 082/100 | train 1.0856 | val 1.4583 | test 1.5826
+Epoch 083/100 | train 1.0789 | val 1.4697 | test 1.5717
+Epoch 084/100 | train 1.0830 | val 1.4722 | test 1.5647
+Epoch 085/100 | train 1.0878 | val 1.4581 | test 1.5710
+Epoch 086/100 | train 1.0767 | val 1.4581 | test 1.5753
+Epoch 087/100 | train 1.0749 | val 1.4775 | test 1.5746
+Epoch 088/100 | train 1.0526 | val 1.4653 | test 1.5676
+Epoch 089/100 | train 1.0592 | val 1.4600 | test 1.5821
+Epoch 090/100 | train 1.0600 | val 1.4657 | test 1.5843
+Epoch 091/100 | train 1.0577 | val 1.4716 | test 1.5699
+Epoch 092/100 | train 1.0499 | val 1.4601 | test 1.5742
+Epoch 093/100 | train 1.0621 | val 1.4593 | test 1.5847
+Epoch 094/100 | train 1.0695 | val 1.4666 | test 1.5755
+Epoch 095/100 | train 1.0603 | val 1.4660 | test 1.5781
+Epoch 096/100 | train 1.0572 | val 1.4672 | test 1.5762
+Epoch 097/100 | train 1.0514 | val 1.4660 | test 1.5780
+Epoch 098/100 | train 1.0708 | val 1.4655 | test 1.5785
+Epoch 099/100 | train 1.0633 | val 1.4664 | test 1.5756
+Epoch 100/100 | train 1.0646 | val 1.4674 | test 1.5760
+
+NOISY  | precision 0.4288 | recall 0.4292
+CLEAN  | precision 0.4288 | recall 0.4292
+Baseline (>=0.3 on noisy): PASS
+Figure saved to: results/per_class_metrics.png
+
+
+5. !!!!!!!!!!!!!!!!!
+IMG_SIZE   = 96, DEPTH = 3, WEIGHT_DECAY = 0.1, DROPOUT_LINEAR2 = 0.3, DROPOUT_ATTENTION = 0.3
+Epoch 001/100 | train 2.0857 | val 2.0661 | test 2.0548
+Epoch 002/100 | train 2.0208 | val 2.0198 | test 1.9943
+Epoch 003/100 | train 1.9929 | val 2.0049 | test 1.9821
+Epoch 004/100 | train 1.9569 | val 1.9455 | test 1.9464
+Epoch 005/100 | train 1.8821 | val 1.8850 | test 1.8760
+Epoch 006/100 | train 1.8263 | val 1.8517 | test 1.8235
+Epoch 007/100 | train 1.7838 | val 1.8421 | test 1.8073
+Epoch 008/100 | train 1.7656 | val 1.8440 | test 1.7902
+Epoch 009/100 | train 1.7221 | val 1.7794 | test 1.7366
+Epoch 010/100 | train 1.6852 | val 1.7641 | test 1.7221
+Epoch 011/100 | train 1.6379 | val 1.7065 | test 1.6803
+Epoch 012/100 | train 1.6330 | val 1.7601 | test 1.6932
+Epoch 013/100 | train 1.6153 | val 1.7379 | test 1.6449
+Epoch 014/100 | train 1.5854 | val 1.7077 | test 1.6710
+Epoch 015/100 | train 1.5491 | val 1.6547 | test 1.6275
+Epoch 016/100 | train 1.5443 | val 1.6686 | test 1.6214
+Epoch 017/100 | train 1.5285 | val 1.6316 | test 1.6097
+Epoch 018/100 | train 1.4907 | val 1.6249 | test 1.5692
+Epoch 019/100 | train 1.4921 | val 1.6050 | test 1.5804
+Epoch 020/100 | train 1.4716 | val 1.6249 | test 1.5685
+Epoch 021/100 | train 1.4539 | val 1.6026 | test 1.5194
+Epoch 022/100 | train 1.4243 | val 1.6079 | test 1.5477
+Epoch 023/100 | train 1.4441 | val 1.5800 | test 1.5075
+Epoch 024/100 | train 1.4373 | val 1.5499 | test 1.5322
+Epoch 025/100 | train 1.4130 | val 1.6054 | test 1.5139
+Epoch 026/100 | train 1.4158 | val 1.6507 | test 1.5580
+Epoch 027/100 | train 1.3974 | val 1.5819 | test 1.5036
+Epoch 028/100 | train 1.3638 | val 1.5810 | test 1.5472
+Epoch 029/100 | train 1.3723 | val 1.5454 | test 1.4820
+Epoch 030/100 | train 1.3553 | val 1.5228 | test 1.4989
+Epoch 031/100 | train 1.3419 | val 1.5141 | test 1.4747
+Epoch 032/100 | train 1.3229 | val 1.5283 | test 1.4547
+Epoch 033/100 | train 1.3031 | val 1.5539 | test 1.4859
+Epoch 034/100 | train 1.2979 | val 1.5501 | test 1.5114
+Epoch 035/100 | train 1.3041 | val 1.5312 | test 1.4343
+Epoch 036/100 | train 1.3080 | val 1.5370 | test 1.4564
+Epoch 037/100 | train 1.2906 | val 1.4978 | test 1.4428
+Epoch 038/100 | train 1.2751 | val 1.5647 | test 1.4809
+Epoch 039/100 | train 1.2680 | val 1.5430 | test 1.4726
+Epoch 040/100 | train 1.2614 | val 1.5242 | test 1.4926
+Epoch 041/100 | train 1.2498 | val 1.5036 | test 1.4660
+Epoch 042/100 | train 1.2341 | val 1.4823 | test 1.4484
+Epoch 043/100 | train 1.2201 | val 1.5705 | test 1.4661
+Epoch 044/100 | train 1.2241 | val 1.4903 | test 1.4187
+Epoch 045/100 | train 1.2096 | val 1.5116 | test 1.4530
+Epoch 046/100 | train 1.2174 | val 1.5155 | test 1.4600
+Epoch 047/100 | train 1.2059 | val 1.5200 | test 1.4799
+Epoch 048/100 | train 1.2100 | val 1.4693 | test 1.4661
+Epoch 049/100 | train 1.1865 | val 1.4731 | test 1.4016
+Epoch 050/100 | train 1.1764 | val 1.4848 | test 1.4742
+Epoch 051/100 | train 1.1671 | val 1.4502 | test 1.3871     <----
+Epoch 052/100 | train 1.1591 | val 1.5304 | test 1.4689
+Epoch 053/100 | train 1.1540 | val 1.4224 | test 1.4381
+Epoch 054/100 | train 1.1269 | val 1.4579 | test 1.4297
+Epoch 055/100 | train 1.1246 | val 1.4380 | test 1.3961
+Epoch 056/100 | train 1.1366 | val 1.4981 | test 1.4398
+Epoch 057/100 | train 1.1329 | val 1.4476 | test 1.4193
+Epoch 058/100 | train 1.1046 | val 1.4288 | test 1.4141
+Epoch 059/100 | train 1.1083 | val 1.4568 | test 1.4017
+Epoch 060/100 | train 1.1158 | val 1.4741 | test 1.4192
+Epoch 061/100 | train 1.0926 | val 1.4641 | test 1.4434
+Epoch 062/100 | train 1.0911 | val 1.4415 | test 1.4364
+Epoch 063/100 | train 1.1083 | val 1.5062 | test 1.4103
+Epoch 064/100 | train 1.0840 | val 1.4596 | test 1.4496
+Epoch 065/100 | train 1.0710 | val 1.4406 | test 1.4430
+Epoch 066/100 | train 1.0671 | val 1.4617 | test 1.4096
+Epoch 067/100 | train 1.0603 | val 1.4945 | test 1.4281
+Epoch 068/100 | train 1.0578 | val 1.4923 | test 1.4471
+Epoch 069/100 | train 1.0589 | val 1.4632 | test 1.3983
+Epoch 070/100 | train 1.0538 | val 1.4609 | test 1.4248
+Epoch 071/100 | train 1.0530 | val 1.4614 | test 1.4320
+Epoch 072/100 | train 1.0475 | val 1.4505 | test 1.4321
+Epoch 073/100 | train 1.0459 | val 1.4769 | test 1.4416
+Epoch 074/100 | train 1.0339 | val 1.4318 | test 1.4034
+Epoch 075/100 | train 1.0338 | val 1.4692 | test 1.4025
+Epoch 076/100 | train 1.0075 | val 1.4769 | test 1.4047
+Epoch 077/100 | train 1.0197 | val 1.4357 | test 1.4229
+Epoch 078/100 | train 1.0055 | val 1.4393 | test 1.4188
+Epoch 079/100 | train 0.9908 | val 1.4418 | test 1.4195
+Epoch 080/100 | train 1.0126 | val 1.4710 | test 1.4177
+Epoch 081/100 | train 1.0197 | val 1.4523 | test 1.4084
+Epoch 082/100 | train 1.0066 | val 1.4596 | test 1.4104
+Epoch 083/100 | train 0.9968 | val 1.4601 | test 1.4298
+Epoch 084/100 | train 0.9906 | val 1.4576 | test 1.4154
+Epoch 085/100 | train 0.9849 | val 1.4494 | test 1.4104
+Epoch 086/100 | train 0.9813 | val 1.4361 | test 1.4079
+Epoch 087/100 | train 1.0010 | val 1.4494 | test 1.4162
+Epoch 088/100 | train 0.9769 | val 1.4434 | test 1.4261
+Epoch 089/100 | train 0.9794 | val 1.4455 | test 1.4130
+Epoch 090/100 | train 0.9721 | val 1.4465 | test 1.4115
+Epoch 091/100 | train 0.9796 | val 1.4427 | test 1.4178
+Epoch 092/100 | train 0.9658 | val 1.4474 | test 1.4184
+Epoch 093/100 | train 0.9680 | val 1.4408 | test 1.4177
+Epoch 094/100 | train 0.9494 | val 1.4491 | test 1.4195
+Epoch 095/100 | train 0.9686 | val 1.4420 | test 1.4211
+Epoch 096/100 | train 0.9681 | val 1.4478 | test 1.4219
+Epoch 097/100 | train 0.9635 | val 1.4466 | test 1.4200
+Epoch 098/100 | train 0.9726 | val 1.4467 | test 1.4198
+Epoch 099/100 | train 0.9691 | val 1.4498 | test 1.4204
+Epoch 100/100 | train 0.9623 | val 1.4487 | test 1.4202
+
+NOISY  | precision 0.4878 | recall 0.4917
+CLEAN  | precision 0.4878 | recall 0.4917
+Baseline (>=0.3 on noisy): PASS
+Figure saved to: results/per_class_metrics.png
+
+
+6. 
+IMG_SIZE   = 128     #
+PATCH_SIZE = 8     
+NUM_CLASSES = 8
+EMBED_DIM  = 128
+DEPTH      = 3
+NUM_HEADS  = 4
+
+EPOCHS_TASK2 = 100
+
+BATCH_SIZE_T2 = 64
+LR_TASK2 = 3e-4
+WEIGHT_DECAY = 0.1
+DROPOUT_LINEAR1 = 0.0
+DROPOUT_LINEAR2 = 0.3
+DROPOUT_ATTENTION = 0.3
+WEIGHT_PATH = f"weights/vit_depth{DEPTH}_dim{EMBED_DIM}_epo{EPOCHS_TASK2}_lr{LR_TASK2}_wd{WEIGHT_DECAY}_dr{DROPOUT_ATTENTION}.pt"
+FORCE_RETRAIN = True
+PER_CLASS_METRICS = "results/per_class_metrics.png"
+
+Per-Class Metrics (Noisy Test Set)
+class            precision   recall
+-----------------------------------
+person               0.483    0.467
+rider                0.348    0.267
+car                  0.370    0.333
+truck                0.368    0.233
+bus                  0.273    0.300
+bike                 0.474    0.600
+traffic light        0.636    0.700
+traffic sign         0.500    0.633
+-----------------------------------
+MACRO avg            0.432    0.442
+
+Per-Class Metrics (Clean Test Set)
+class            precision   recall
+-----------------------------------
+person               0.483    0.467
+rider                0.348    0.267
+car                  0.370    0.333
+truck                0.368    0.233
+bus                  0.273    0.300
+bike                 0.474    0.600
+traffic light        0.636    0.700
+traffic sign         0.500    0.633
+-----------------------------------
+MACRO avg            0.432    0.442
+
+Epoch 001/100 | train 2.0962 | val 2.0385 | test 2.0186
+Epoch 002/100 | train 1.9979 | val 1.9983 | test 1.9647
+Epoch 003/100 | train 1.9016 | val 1.8679 | test 1.8659
+Epoch 004/100 | train 1.8177 | val 1.8801 | test 1.8788
+Epoch 005/100 | train 1.7885 | val 1.7931 | test 1.7997
+Epoch 006/100 | train 1.7160 | val 1.7578 | test 1.7296
+Epoch 007/100 | train 1.6703 | val 1.7997 | test 1.7398
+Epoch 008/100 | train 1.6387 | val 1.7675 | test 1.7071
+Epoch 009/100 | train 1.5763 | val 1.6705 | test 1.6247
+Epoch 010/100 | train 1.5525 | val 1.6378 | test 1.6127
+Epoch 011/100 | train 1.4978 | val 1.6545 | test 1.6469
+Epoch 012/100 | train 1.4633 | val 1.6831 | test 1.6397
+Epoch 013/100 | train 1.4466 | val 1.6210 | test 1.6131
+Epoch 014/100 | train 1.4175 | val 1.6087 | test 1.6200
+Epoch 015/100 | train 1.3952 | val 1.6217 | test 1.6073
+Epoch 016/100 | train 1.3712 | val 1.5330 | test 1.6241
+Epoch 017/100 | train 1.3691 | val 1.5794 | test 1.6000
+Epoch 018/100 | train 1.3285 | val 1.6220 | test 1.5762
+Epoch 019/100 | train 1.3084 | val 1.5522 | test 1.5493
+Epoch 020/100 | train 1.3130 | val 1.6162 | test 1.5693
+Epoch 021/100 | train 1.2675 | val 1.5318 | test 1.4794     <---
+Epoch 022/100 | train 1.2099 | val 1.5470 | test 1.6508
+Epoch 023/100 | train 1.2504 | val 1.4790 | test 1.5204
+Epoch 024/100 | train 1.2181 | val 1.6810 | test 1.5988
+Epoch 025/100 | train 1.2098 | val 1.6218 | test 1.6070
+Epoch 026/100 | train 1.1890 | val 1.6484 | test 1.6532
+Epoch 027/100 | train 1.1981 | val 1.5437 | test 1.5933
+Epoch 028/100 | train 1.1721 | val 1.5750 | test 1.6204
+Epoch 029/100 | train 1.1611 | val 1.6049 | test 1.5695
+Epoch 030/100 | train 1.1209 | val 1.6374 | test 1.6130
+Epoch 031/100 | train 1.1671 | val 1.5324 | test 1.6258
+Epoch 032/100 | train 1.1035 | val 1.5648 | test 1.6347
+Epoch 033/100 | train 1.1050 | val 1.5934 | test 1.5846
+Epoch 034/100 | train 1.0807 | val 1.7014 | test 1.6493
+Epoch 035/100 | train 1.0908 | val 1.5968 | test 1.6185
+Epoch 036/100 | train 1.0508 | val 1.5287 | test 1.6996
+Epoch 037/100 | train 1.0367 | val 1.6925 | test 1.6868
+Epoch 038/100 | train 1.0226 | val 1.6551 | test 1.6558
+Epoch 039/100 | train 1.0185 | val 1.6974 | test 1.6715
+Epoch 040/100 | train 0.9791 | val 1.6189 | test 1.6333
+Epoch 041/100 | train 0.9489 | val 1.6637 | test 1.7022
+Epoch 042/100 | train 0.9521 | val 1.6290 | test 1.6391
+Epoch 043/100 | train 0.9366 | val 1.6909 | test 1.6941
+Epoch 044/100 | train 0.9255 | val 1.6212 | test 1.7320
+Epoch 045/100 | train 0.8996 | val 1.8271 | test 1.7780
+Epoch 046/100 | train 0.9160 | val 1.6380 | test 1.6636
+Epoch 047/100 | train 0.8860 | val 1.6886 | test 1.7306
+Epoch 048/100 | train 0.8599 | val 1.6837 | test 1.7135
+Epoch 049/100 | train 0.8344 | val 1.7064 | test 1.8002
+Epoch 050/100 | train 0.8328 | val 1.7353 | test 1.8283
+Epoch 051/100 | train 0.8334 | val 1.7191 | test 1.8402
+Epoch 052/100 | train 0.8065 | val 1.8145 | test 1.7773
+Epoch 053/100 | train 0.7841 | val 1.6631 | test 1.7777
+Epoch 054/100 | train 0.7752 | val 1.7546 | test 1.8029
+Epoch 055/100 | train 0.7661 | val 1.7826 | test 1.8122
+Epoch 056/100 | train 0.7384 | val 1.7352 | test 1.8594
+Epoch 057/100 | train 0.7206 | val 1.7932 | test 1.8154
+Epoch 058/100 | train 0.7230 | val 1.7629 | test 1.8303
+Epoch 059/100 | train 0.6931 | val 1.8538 | test 1.8586
+Epoch 060/100 | train 0.6782 | val 1.7974 | test 1.8738
+Epoch 061/100 | train 0.6798 | val 1.7999 | test 1.8350
+Epoch 062/100 | train 0.6665 | val 1.8296 | test 1.8809
+Epoch 063/100 | train 0.6463 | val 1.7932 | test 1.8681
+Epoch 064/100 | train 0.6320 | val 1.8342 | test 1.9293
+Epoch 065/100 | train 0.6155 | val 1.8421 | test 1.9289
+Epoch 066/100 | train 0.5980 | val 1.8613 | test 1.9344
+Epoch 067/100 | train 0.5770 | val 1.8044 | test 1.9456
+Epoch 068/100 | train 0.5844 | val 1.8546 | test 1.9213
+Epoch 069/100 | train 0.5727 | val 1.8858 | test 1.9930
+Epoch 070/100 | train 0.5567 | val 1.8974 | test 1.9427
+Epoch 071/100 | train 0.5364 | val 1.9301 | test 2.0037
+Epoch 072/100 | train 0.5374 | val 1.9248 | test 2.0144
+Epoch 073/100 | train 0.5335 | val 1.9475 | test 2.0151
+Epoch 074/100 | train 0.5060 | val 1.9207 | test 1.9782
+Epoch 075/100 | train 0.4870 | val 1.9714 | test 2.0327
+Epoch 076/100 | train 0.4858 | val 1.9914 | test 2.0225
+Epoch 077/100 | train 0.4928 | val 1.9929 | test 2.0610
+Epoch 078/100 | train 0.4860 | val 2.0184 | test 2.0798
+Epoch 079/100 | train 0.4636 | val 1.9828 | test 2.0209
+Epoch 080/100 | train 0.4671 | val 1.9953 | test 2.0692
+Epoch 081/100 | train 0.4610 | val 1.9908 | test 2.0421
+Epoch 082/100 | train 0.4343 | val 1.9629 | test 2.0232
+Epoch 083/100 | train 0.4244 | val 2.0140 | test 2.0709
+Epoch 084/100 | train 0.4340 | val 2.0352 | test 2.0598
+Epoch 085/100 | train 0.4316 | val 2.0338 | test 2.0876
+Epoch 086/100 | train 0.4390 | val 1.9906 | test 2.0710
+Epoch 087/100 | train 0.4081 | val 1.9957 | test 2.0754
+Epoch 088/100 | train 0.4114 | val 1.9802 | test 2.0810
+Epoch 089/100 | train 0.4011 | val 1.9912 | test 2.1028
+Epoch 090/100 | train 0.4095 | val 2.0058 | test 2.1192
+Epoch 091/100 | train 0.4133 | val 2.0109 | test 2.0951
+Epoch 092/100 | train 0.4051 | val 2.0074 | test 2.1072
+Epoch 093/100 | train 0.3993 | val 2.0135 | test 2.1094
+Epoch 094/100 | train 0.3906 | val 2.0085 | test 2.1148
+Epoch 095/100 | train 0.4040 | val 2.0255 | test 2.1155
+Epoch 096/100 | train 0.4040 | val 2.0261 | test 2.1194
+Epoch 097/100 | train 0.3905 | val 2.0372 | test 2.1255
+Epoch 098/100 | train 0.3874 | val 2.0257 | test 2.1207
+Epoch 099/100 | train 0.3824 | val 2.0237 | test 2.1178
+Epoch 100/100 | train 0.3943 | val 2.0288 | test 2.1191
+
+
+7.
+# Task 2 hyper parameters:
+IMG_SIZE   = 128     #
+PATCH_SIZE = 8     
+NUM_CLASSES = 8
+EMBED_DIM  = 64
+DEPTH      = 3
+NUM_HEADS  = 4
+
+EPOCHS_TASK2 = 100
+
+BATCH_SIZE_T2 = 64
+LR_TASK2 = 3e-4
+WEIGHT_DECAY = 0.1
+DROPOUT_LINEAR1 = 0.0
+DROPOUT_LINEAR2 = 0.3
+DROPOUT_ATTENTION = 0.3
+WEIGHT_PATH = f"weights/vit_depth{DEPTH}_dim{EMBED_DIM}_epo{EPOCHS_TASK2}_lr{LR_TASK2}_wd{WEIGHT_DECAY}_dr{DROPOUT_ATTENTION}.pt"
+FORCE_RETRAIN = True
+PER_CLASS_METRICS = "results/per_class_metrics.png"
+
+Per-Class Metrics (Noisy Test Set)
+class            precision   recall
+-----------------------------------
+person               0.536    0.500
+rider                0.318    0.233
+car                  0.255    0.433
+truck                0.409    0.300
+bus                  0.333    0.400
+bike                 0.500    0.333
+traffic light        0.778    0.700
+traffic sign         0.588    0.667
+-----------------------------------
+MACRO avg            0.465    0.446
+
+Per-Class Metrics (Clean Test Set)
+class            precision   recall
+-----------------------------------
+person               0.536    0.500
+rider                0.318    0.233
+car                  0.255    0.433
+truck                0.409    0.300
+bus                  0.333    0.400
+bike                 0.500    0.333
+traffic light        0.778    0.700
+traffic sign         0.588    0.667
+-----------------------------------
+MACRO avg            0.465    0.446
+
+Epoch 001/100 | train 2.0879 | val 2.0205 | test 2.0105
+Epoch 002/100 | train 2.0148 | val 1.9989 | test 2.0121
+Epoch 003/100 | train 1.9813 | val 2.0001 | test 1.9490
+Epoch 004/100 | train 1.9259 | val 1.9445 | test 1.9114
+Epoch 005/100 | train 1.8953 | val 1.8926 | test 1.8311
+Epoch 006/100 | train 1.8522 | val 1.8569 | test 1.8302
+Epoch 007/100 | train 1.7989 | val 1.8125 | test 1.7532
+Epoch 008/100 | train 1.7566 | val 1.8534 | test 1.7829
+Epoch 009/100 | train 1.7139 | val 1.8011 | test 1.7249
+Epoch 010/100 | train 1.6907 | val 1.7635 | test 1.6977
+Epoch 011/100 | train 1.6409 | val 1.7280 | test 1.6329
+Epoch 012/100 | train 1.6297 | val 1.7285 | test 1.6455
+Epoch 013/100 | train 1.6011 | val 1.6747 | test 1.5991
+Epoch 014/100 | train 1.5758 | val 1.6742 | test 1.6529
+Epoch 015/100 | train 1.5803 | val 1.6423 | test 1.5584
+Epoch 016/100 | train 1.5485 | val 1.6419 | test 1.5503
+Epoch 017/100 | train 1.5404 | val 1.5914 | test 1.5609
+Epoch 018/100 | train 1.4952 | val 1.6132 | test 1.5339
+Epoch 019/100 | train 1.4732 | val 1.6224 | test 1.5651
+Epoch 020/100 | train 1.4692 | val 1.5455 | test 1.5138
+Epoch 021/100 | train 1.4477 | val 1.5833 | test 1.5502
+Epoch 022/100 | train 1.4430 | val 1.5529 | test 1.5091
+Epoch 023/100 | train 1.4287 | val 1.5468 | test 1.5234
+Epoch 024/100 | train 1.4217 | val 1.5391 | test 1.4848
+Epoch 025/100 | train 1.4243 | val 1.5565 | test 1.4982
+Epoch 026/100 | train 1.3941 | val 1.5591 | test 1.4841
+Epoch 027/100 | train 1.3670 | val 1.5719 | test 1.5540
+Epoch 028/100 | train 1.3676 | val 1.5729 | test 1.5302
+Epoch 029/100 | train 1.3554 | val 1.5350 | test 1.4927
+Epoch 030/100 | train 1.3524 | val 1.5584 | test 1.5699
+Epoch 031/100 | train 1.3242 | val 1.5395 | test 1.4836
+Epoch 032/100 | train 1.3272 | val 1.5170 | test 1.4793
+Epoch 033/100 | train 1.3157 | val 1.5118 | test 1.5024
+Epoch 034/100 | train 1.3158 | val 1.4957 | test 1.4821
+Epoch 035/100 | train 1.2952 | val 1.5389 | test 1.4735
+Epoch 036/100 | train 1.2831 | val 1.5945 | test 1.5431
+Epoch 037/100 | train 1.2935 | val 1.4766 | test 1.4922
+Epoch 038/100 | train 1.2492 | val 1.5009 | test 1.4949
+Epoch 039/100 | train 1.2464 | val 1.4764 | test 1.4978
+Epoch 040/100 | train 1.2414 | val 1.5033 | test 1.4784
+Epoch 041/100 | train 1.2398 | val 1.4792 | test 1.4718
+Epoch 042/100 | train 1.2315 | val 1.4918 | test 1.5075
+Epoch 043/100 | train 1.2216 | val 1.4866 | test 1.4846
+Epoch 044/100 | train 1.2136 | val 1.5036 | test 1.5002
+Epoch 045/100 | train 1.2043 | val 1.4880 | test 1.4512
+Epoch 046/100 | train 1.1958 | val 1.4502 | test 1.4625
+Epoch 047/100 | train 1.1741 | val 1.4868 | test 1.5294
+Epoch 048/100 | train 1.1702 | val 1.4945 | test 1.5013
+Epoch 049/100 | train 1.1614 | val 1.5065 | test 1.5402
+Epoch 050/100 | train 1.1794 | val 1.5115 | test 1.5229
+Epoch 051/100 | train 1.1529 | val 1.4661 | test 1.5036
+Epoch 052/100 | train 1.1416 | val 1.4671 | test 1.4777
+Epoch 053/100 | train 1.1479 | val 1.4902 | test 1.5132
+Epoch 054/100 | train 1.1255 | val 1.4827 | test 1.4593
+Epoch 055/100 | train 1.1145 | val 1.4785 | test 1.4710
+Epoch 056/100 | train 1.1192 | val 1.4907 | test 1.5282
+Epoch 057/100 | train 1.1179 | val 1.4707 | test 1.4722
+Epoch 058/100 | train 1.1158 | val 1.4959 | test 1.5312
+Epoch 059/100 | train 1.1163 | val 1.4877 | test 1.4799
+Epoch 060/100 | train 1.0801 | val 1.4897 | test 1.5078
+Epoch 061/100 | train 1.0962 | val 1.4592 | test 1.5018
+Epoch 062/100 | train 1.0886 | val 1.4952 | test 1.5014
+Epoch 063/100 | train 1.0844 | val 1.4814 | test 1.5049
+Epoch 064/100 | train 1.0744 | val 1.5295 | test 1.5754
+Epoch 065/100 | train 1.0525 | val 1.5016 | test 1.5087
+Epoch 066/100 | train 1.0397 | val 1.4888 | test 1.5339
+Epoch 067/100 | train 1.0109 | val 1.4782 | test 1.5234
+Epoch 068/100 | train 1.0245 | val 1.4873 | test 1.5149
+Epoch 069/100 | train 1.0128 | val 1.4970 | test 1.4918
+Epoch 070/100 | train 1.0125 | val 1.5359 | test 1.5214
+Epoch 071/100 | train 1.0200 | val 1.5120 | test 1.5424
+Epoch 072/100 | train 1.0223 | val 1.5093 | test 1.5448
+Epoch 073/100 | train 0.9988 | val 1.5034 | test 1.5102
+Epoch 074/100 | train 1.0056 | val 1.5011 | test 1.5044
+Epoch 075/100 | train 0.9964 | val 1.4835 | test 1.5241
+Epoch 076/100 | train 0.9915 | val 1.4842 | test 1.5261
+Epoch 077/100 | train 0.9876 | val 1.5006 | test 1.4895
+Epoch 078/100 | train 0.9756 | val 1.4968 | test 1.5122
+Epoch 079/100 | train 0.9867 | val 1.5204 | test 1.5580
+Epoch 080/100 | train 0.9679 | val 1.5095 | test 1.5444
+Epoch 081/100 | train 0.9800 | val 1.5081 | test 1.5048
+Epoch 082/100 | train 0.9617 | val 1.5127 | test 1.5224
+Epoch 083/100 | train 0.9631 | val 1.5068 | test 1.5117
+Epoch 084/100 | train 0.9613 | val 1.4997 | test 1.5304
+Epoch 085/100 | train 0.9675 | val 1.5057 | test 1.5383
+Epoch 086/100 | train 0.9570 | val 1.5067 | test 1.5115
+Epoch 087/100 | train 0.9526 | val 1.5029 | test 1.5170
+Epoch 088/100 | train 0.9554 | val 1.5089 | test 1.5360
+Epoch 089/100 | train 0.9506 | val 1.5034 | test 1.5251
+Epoch 090/100 | train 0.9548 | val 1.5033 | test 1.5325
+Epoch 091/100 | train 0.9519 | val 1.5057 | test 1.5375
+Epoch 092/100 | train 0.9409 | val 1.5057 | test 1.5287
+Epoch 093/100 | train 0.9358 | val 1.5036 | test 1.5322
+Epoch 094/100 | train 0.9276 | val 1.5036 | test 1.5341
+Epoch 095/100 | train 0.9421 | val 1.5051 | test 1.5320
+Epoch 096/100 | train 0.9236 | val 1.5057 | test 1.5338
+Epoch 097/100 | train 0.9324 | val 1.5041 | test 1.5304
+Epoch 098/100 | train 0.9439 | val 1.5037 | test 1.5304
+Epoch 099/100 | train 0.9459 | val 1.5037 | test 1.5314
+Epoch 100/100 | train 0.9351 | val 1.5040 | test 1.5318
