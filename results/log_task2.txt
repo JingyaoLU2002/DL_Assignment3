@@ -427,6 +427,35 @@ Figure saved to: results/per_class_metrics.png
 
 5. !!!!!!!!!!!!!!!!!
 IMG_SIZE   = 96, DEPTH = 3, WEIGHT_DECAY = 0.1, DROPOUT_LINEAR2 = 0.3, DROPOUT_ATTENTION = 0.3
+Per-Class Metrics (Noisy Test Set)
+class            precision   recall
+-----------------------------------
+person               0.483    0.467
+rider                0.471    0.267
+car                  0.387    0.400
+truck                0.300    0.300
+bus                  0.393    0.367
+bike                 0.696    0.533
+traffic light        0.575    0.767
+traffic sign         0.476    0.667
+-----------------------------------
+MACRO avg            0.473    0.471
+
+Per-Class Metrics (Clean Test Set)
+class            precision   recall
+-----------------------------------
+person               0.483    0.467
+rider                0.471    0.267
+car                  0.387    0.400
+truck                0.300    0.300
+bus                  0.393    0.367
+bike                 0.696    0.533
+traffic light        0.575    0.767
+traffic sign         0.476    0.667
+-----------------------------------
+MACRO avg            0.473    0.471
+
+
 Epoch 001/100 | train 2.0857 | val 2.0661 | test 2.0548
 Epoch 002/100 | train 2.0208 | val 2.0198 | test 1.9943
 Epoch 003/100 | train 1.9929 | val 2.0049 | test 1.9821
